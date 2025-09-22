@@ -1,0 +1,36 @@
+------ BILL ------
+Customer: nafis (017232292982)
+Biriyani x10 = 600.0 Taka
+Discount: 60.0 Taka
+Final Amount: 540.0 Taka
+------------------------
+
+------ BILL ------
+Customer: Nafis (01646542622)
+Dim Bhat x2 = 120.0 Taka
+Biriyani x10 = 600.0 Taka
+Discount: 72.0 Taka
+Final Amount: 648.0 Taka
+------------------------
+
+------ BILL ------
+Customer: Sayed (01723676719)
+Kichuri x1 = 25.0 Taka
+Discount: 0.0 Taka
+Final Amount: 25.0 Taka
+------------------------
+
+------ BILL ------
+Customer: Nahid (01723161619)
+Coffee x20 = 500.0 Taka
+Discount: 50.0 Taka
+Final Amount: 450.0 Taka
+------------------------
+
+------ BILL ------
+Customer: Nafis Shahriar (01646542222)
+Biriyani x20 = 1200.0 Taka
+Discount: 120.0 Taka
+Final Amount: 1080.0 Taka
+------------------------
+
